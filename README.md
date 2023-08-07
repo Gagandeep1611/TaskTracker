@@ -6,7 +6,7 @@ Task Tracker API as submission for an assignment towards EPay Later
 **Requirements**:
 Intellij Idea, Java 17, Postgresql 
 
-**Maven Dependencies: **
+**Maven Dependencies** :
 Starter Web, Lombok, Spring starter JPA, Postgresql, Logging.
 
 **How to get started:** 

@@ -1,7 +1,7 @@
 # TaskTracker
 
 **Objective:**
-Task Tracker API as submission for an assignment towards EPay Later
+Task Tracker API to demonstrate REST API skill.
 
 **Requirements**:
 Intellij Idea, Java 17, Postgresql 
